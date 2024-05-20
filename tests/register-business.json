@@ -1,0 +1,16 @@
+{
+    "businessName": "Test Business Name",
+    "businessPhone": "03 9100 2222",
+  
+    "premiseAddr": "200 Swanston Street",
+    "premiseCity": "Melbourne",
+    "premiseState": "VIC",
+    "premisePostCode": "3001",
+    "premiseCountry": "Australia",
+  
+    "contactFirstName": "Johnny",
+    "contactLastName": "Diesel",
+    "contactPhone": "0400 100 200",
+    "contactEmail": "johnny.diesel@business.com"
+}
+  
