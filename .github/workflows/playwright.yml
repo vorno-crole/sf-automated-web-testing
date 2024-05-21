@@ -16,8 +16,10 @@ on:
   #          │ │ │ │ │
   #          │ │ │ │ │
   #          * * * * *
-  schedule:
-    - cron: "0 3 * * *" # every day at 3am
+
+  # Uncomment the lines below if you want to schedule your job
+  # schedule:
+  #   - cron: "0 3 * * *" # every day at 3am
 
 env:
   SFDX_HIDE_RELEASE_NOTES: true
